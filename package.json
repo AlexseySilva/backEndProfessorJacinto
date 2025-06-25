@@ -12,7 +12,7 @@
     "Nodejs",
     "MongoDB"
   ],
-  "author": "JSFernando",
+  "author": "Alexsey",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
